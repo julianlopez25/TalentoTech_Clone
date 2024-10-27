@@ -1,0 +1,13 @@
+html{
+    background: blue;
+}
+.container{
+    background-color: azure;
+    padding: 2px;
+    width: 400px;
+    height: 250px;
+}
+.imgcontainer{
+    width: 100%;
+    height: 60%;
+}
